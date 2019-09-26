@@ -1,1 +1,1 @@
-# universidad_regional_del_norte
+# universidad regional del norte
