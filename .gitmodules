@@ -2,3 +2,11 @@
 	path = vendor-bills
 	url = git@git.vauxoo.com:Vauxoo/vendor-bills.git
 	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 12.0
+[submodule "universidad_regional_del_norte"]
+    path = universidad_regional_del_norte
+    url = git@git.vauxoo.com:vauxoo/universidad_regional_del_norte.git
+	branch = 12.0
